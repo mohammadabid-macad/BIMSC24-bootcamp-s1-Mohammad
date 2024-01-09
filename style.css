@@ -1,0 +1,38 @@
+#navbar{
+
+height: 200px;
+
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size:large;
+
+}
+
+#sidebar{
+
+width: 400px;
+height: 1000px;
+
+    
+    background-color:blue;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size:large;
+
+}
+
+
+#main{
+
+    width: 800px;
+    margin-left: 400px;
+    height: 1000px;
+    
+    
+    background-color:brown;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size:large;
+
+}
